@@ -1,4 +1,4 @@
-import com.zybooks.dsaj.util.Position;
+import Position;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

@@ -1,4 +1,4 @@
-import com.zybooks.dsaj.util.Position;
+import Position;
 
 /**
  * Provides an insertion sort implementation for a PositionalList.

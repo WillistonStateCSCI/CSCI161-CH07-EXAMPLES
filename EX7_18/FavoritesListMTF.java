@@ -1,4 +1,4 @@
-import com.zybooks.dsaj.util.Position;
+import Position;
 
 /**
    A list of elements, ordered from most recently to least recently accessed.
